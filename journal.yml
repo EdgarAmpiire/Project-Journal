@@ -1,0 +1,10 @@
+--- !ruby/object:Journal
+entries:
+- !ruby/object:JournalEntry
+  title: good day
+  body: 'sdfns;jdfnknfksdnglkaf sl''ktnhslnvlkhsabva vkxjksjdbfisdnfjn jsdfius d;fouhsqpiuf '
+  created_at: 2025-07-18 21:58:33.000158000 +03:00
+- !ruby/object:JournalEntry
+  title: time
+  body: msdjlkfbsk  jsndfksn sdnfkjs sdfk;n snd;kfnsd fk ;sdnfkjsn   sdnfsdnfjs s
+  created_at: 2025-07-18 22:05:53.623566000 +03:00

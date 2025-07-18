@@ -36,7 +36,7 @@ class Journal
 
   def self.load_from_file(filename = 'journal.yml')
     if File.exist?(filename)
-      YAML.load_file(filename, permitted_classes: [JournalEntry])
+      YAML.load_file(filename, permitted_classes: [Journal, JournalEntry, Time])
     else
       nil
     end
