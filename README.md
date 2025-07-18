@@ -40,9 +40,9 @@ journal_app/
 2. Clone or download this repository.
 
 3. Run the app:
-```bash
-ruby main.rb
-```
+   ```bash
+   ruby main.rb
+   ```
 
 ## 🖥️ Menu Preview
 ```markdown
